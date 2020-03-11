@@ -1,0 +1,99 @@
+
+
+body {
+    font-family: sans-serif; 
+
+}
+.img img {
+    max-width: 100%;
+}
+
+.img1 img{
+    max-width: 100%;
+}
+
+
+.img2 img{
+    max-width: 100%;
+}
+
+.img3 img{
+    max-width: 100%;
+}
+
+
+.img{
+    height: 100px;
+    width: 100px; 
+    padding:1em;
+}
+  
+
+
+.img1{
+    height: 100px;
+    width: 100px;
+    padding:1em;
+}
+
+.img2{
+    height: 100px;
+    width: 100px;
+    padding:1em;
+
+
+}
+.img3{
+    height: 100px;
+    width: 100px;
+    padding:1em;
+
+
+}
+ 
+.bordeau_container{
+
+    padding: 5%;
+}
+
+.vert_container{   
+    padding: 5%;}
+
+.orange_container{   
+    padding: 5%;}
+
+.rouge_container{  
+    padding: 5%;}
+
+.deuxieme_container {
+    display: inline;
+    list-style: left;
+    margin-left: 4.2cm;
+    text-align: center;
+    font-family: "Avenir Roman", sans-serif;
+    font-size: 20px;
+}
+
+.left{
+        float: left;
+    }
+.right{
+        float: right;
+    }
+    
+.clear{
+        clear: both;
+    }
+
+.p {
+    font-size: 1.2em;
+    
+}
+
+.content {
+    display: flex;
+}
+
+.content>div {
+    width: 50%;
+}
